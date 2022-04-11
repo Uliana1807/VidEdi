@@ -1,3 +1,3 @@
 # VidEdi\
-#Uliana1807 - boss\
-#nastyabelyaeva - designer\
+Uliana1807 - boss\
+nastyabelyaeva - designer
